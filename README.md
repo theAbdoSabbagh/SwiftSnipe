@@ -67,13 +67,19 @@
 }
 ```
 
-
 ### Usage Instructions 
-`- Coming soon!`
+- Download and install the latest version of Python 3 from [here](https://www.python.org/downloads/).
+- Run the command `pip install -r requirements.txt` in the directory containing the repository files.
+- Run the `main.py` file.
+- Edit the newly created `config.json` file.
+- Run the `main.py` file again.
+- Sit back and relax!
 
 ### Build Instructions 
-`- Coming soon!`
-
+- Download and install the latest version of Python 3 from [here](https://www.python.org/downloads/).
+- Run the command `pip install -r requirements.txt` in the directory containing the repository files.
+- Run the command `pyinstaller --onefile main.py` in the directory containing the repository files.
+- The executable file will be located in the `dist` folder.
 
 ### Disclaimer
 > Please be aware that self-botting is strictly forbidden by Discord's terms of service. By using this program, you assume all risks and consequences. I cannot be held responsible for any account suspensions or penalties that may occur.
