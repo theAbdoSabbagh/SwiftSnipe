@@ -78,6 +78,7 @@
 ### Build Instructions 
 - Download and install the latest version of Python 3 from [here](https://www.python.org/downloads/).
 - Run the command `pip install -r requirements.txt` in the directory containing the repository files.
+- Run the command `pip install pyinstaller` in the directory containing the repository files.
 - Run the command `pyinstaller --onefile main.py` in the directory containing the repository files.
 - The executable file will be located in the `dist` folder.
 
