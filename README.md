@@ -84,3 +84,5 @@
 
 ### Disclaimer
 > Please be aware that self-botting is strictly forbidden by Discord's terms of service. By using this program, you assume all risks and consequences. I cannot be held responsible for any account suspensions or penalties that may occur.
+
+<sup><sub>Inspired by [philhk](https://github.com/philhk/discord-name-sniper/tree/main) </sub></sup>
